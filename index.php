@@ -6,7 +6,7 @@
 		<title>Basic CSS Exercise</title>
 	</head>
 	<body class="sfooter">
-		<div class="sfooter-content">
+
 			<header>
 				<div class="container">
 					<!--hey hey hey-->
@@ -38,9 +38,8 @@
 					</section>
 				</div>
 			</main>
-		</div>
 		<footer>
-			<div class="container">
+			<div class="sfooter-content">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
