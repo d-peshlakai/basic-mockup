@@ -10,14 +10,31 @@ body {
 	margin: 0;
 }
 
-.container {
+div.container {
 	margin: 0 auto;
+	height: 50px;
 	width: 1170px;
+	padding: 0 20px 0 0;
+	background-color: #87CEFA;
+	background-position: 100%;
 }
+
+
+
+
+div.instructions {
+	border: solid;
+	border-color:  gray;
+	text-align: inherit;
+	border-radius: 20px 30px 50px;
+}
+
 
 .clear {
 	clear: both;
 }
+
+
 
 /***
 * Flexbox Sticky Footer
