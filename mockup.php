@@ -7,11 +7,13 @@
 				margin: 0;
 			}
 
-			img {
-				display: block;
-				height: auto;
+			#img.pull-left {
+				display: auto;
+				height: 24px;
 				margin: 0 auto;
 				max-width: 100%;
+				margin-right: 4px;
+				
 			}
 		</style>
 		<title>Basic CSS Mockup</title>

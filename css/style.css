@@ -25,13 +25,28 @@ div.instructions {
 	padding: 30px 5px 0 10px;
 
 }
-
+section.clear {
+	border: solid;
+	width: 600px;
+	position: relative;
+	margin: auto;
+	background-color: #87CEFA;
+}
 
 .clear {
 	clear: both;
 }
+img.pull-left {
+	border: solid;
+	border-color: gray;
+	display: inline-block;
+	float: left;
 
+}
 
+p {
+	padding: 0 15px 0;
+}
 
 /***
 * Flexbox Sticky Footer
