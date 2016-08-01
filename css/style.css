@@ -23,6 +23,10 @@ h1 {
 
 
 }
+div.clear {
+	font-family: sans-serif;
+	line-height: 19px;
+}
 
 div.instructions {
 	border-color: gray;
@@ -36,22 +40,25 @@ div.instructions {
 }
 section.clear {
 	border: solid;
-	width: 600px;
+	width: 75%;
 	position: relative;
 	margin: auto;
 	background-color: #87CEFA;
 }
 
-.clear {
-	clear: both;
-}
 img.pull-left {
 	border: solid;
 	border-color: gray;
 	display: inline-block;
 	float: left;
+	margin-top:-10px;
+	margin-left:5px;
 
-
+}
+img.pull-right {
+	float: right;
+}
+body.sfooter {
 }
 
 
@@ -79,6 +86,7 @@ body { width: 100%;}
 	flex: 1 0 auto;
 	border: solid;
 	background-color: black;
+	padding:30px 35px;
 
 }
 h3 {

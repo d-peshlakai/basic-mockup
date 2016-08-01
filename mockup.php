@@ -6,15 +6,14 @@
 			body {
 				margin: 0;
 			}
-
 			#img.pull-left {
 				display: auto;
-				height: 24px;
-				margin: 0 auto;
+				height: 28px;
 				max-width: 100%;
 				margin-right: 4px;
 				padding: 30px;
-			}
+				margin-top: 5px;
+
 		</style>
 		<title>Basic CSS Mockup</title>
 	</head>
