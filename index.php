@@ -39,7 +39,7 @@
 			</main>
 		<footer>
 			<div class="sfooter-content">
-				<p>Resistance is futile!</p>
+				<h3>Resistance is futile!</h3>
 			</div>
 		</footer>
 	</body>

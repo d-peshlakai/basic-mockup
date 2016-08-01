@@ -14,6 +14,12 @@ div.container {
 	margin: 0 auto;
 	height: 25px;
 	background-color: #87CEFA;
+	padding: 20px 30px;
+}
+h1 {
+	text-align: center;
+	margin-top:-10px;
+	margin-left:5px;
 
 
 }
@@ -71,8 +77,13 @@ body { width: 100%;}
 
 .sfooter-content {
 	flex: 1 0 auto;
+	border: solid;
+	background-color: black;
 
-
+}
+h3 {
+	color: white;
+	text-align: justify;
 
 }
 /******************************************
