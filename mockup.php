@@ -13,7 +13,7 @@
 				margin: 0 auto;
 				max-width: 100%;
 				margin-right: 4px;
-				
+				padding: 30px;
 			}
 		</style>
 		<title>Basic CSS Mockup</title>

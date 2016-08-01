@@ -14,7 +14,6 @@
 				</div>
 			</header>
 			<main>
-				<div class="container">
 					<div class="instructions">
 						<h2>Instructions</h2>
 						<ol>
