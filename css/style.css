@@ -11,7 +11,7 @@ body {
 }
 
 div.container {
-	margin: 0 auto;
+	margin: auto 0;
 	height: 25px;
 	background-color: #87CEFA;
 	padding: 20px 30px;
@@ -26,6 +26,7 @@ h1 {
 div.clear {
 	font-family: sans-serif;
 	line-height: 19px;
+	display: block;
 }
 
 div.instructions {
@@ -35,15 +36,13 @@ div.instructions {
 	margin: auto;
 	position: static;
 	border: solid;
-
-
 }
 section.clear {
 	border: solid;
 	width: 75%;
 	position: relative;
+	background-color: white;
 	margin: auto;
-	background-color: #87CEFA;
 }
 
 img.pull-left {
@@ -75,9 +74,9 @@ html { display: flex;}
 body { width: 100%;}
 
 .sfooter {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
+	border: solid;
+
+
 }
 
 
@@ -85,7 +84,7 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 	border: solid;
-	background-color: black;
+	background-color: #87CEFA;
 	padding:30px 35px;
 
 }
