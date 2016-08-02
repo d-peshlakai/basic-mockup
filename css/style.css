@@ -57,12 +57,9 @@ img.pull-left {
 img.pull-right {
 	float: right;
 }
-body.sfooter {
+div.sfooter {
+	background-color: black;
 }
-
-
-
-
 
 /***
 * Flexbox Sticky Footer
@@ -89,9 +86,12 @@ body { width: 100%;}
 
 }
 h3 {
-	color: white;
+	color: black;
 	text-align: justify;
 
+}
+h4 {
+	color: white;
 }
 /******************************************
 * Your CSS rules go down here

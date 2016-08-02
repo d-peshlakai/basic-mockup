@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 		<title>Basic CSS Exercise</title>
 	</head>
-	<body class="sfooter">
+	<body>
 
 			<header>
 				<div class="container">
@@ -38,11 +38,10 @@
 						<p>I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators. You saw something as tasty as meat, but inorganically materialized out of patterns used by our transporters. Captain, the most elementary and valuable statement in science, the beginning of wisdom, is 'I do not know.' All transporters off.</p>
 					</div>
 				</section>
-
 			</main>
 		<footer>
 			<div class="sfooter">
-				<h3>Resistance is futile!</h3>
+				<h4>Resistance is futile!</h4>
 			</div>
 		</footer>
 	</body>
