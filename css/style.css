@@ -50,8 +50,8 @@ img.pull-left {
 	border-color: gray;
 	display: inline-block;
 	float: left;
-	margin-top:-10px;
-	margin-left:5px;
+	margin-top: 0;
+	margin-left:0;
 
 }
 img.pull-right {
@@ -72,12 +72,7 @@ body { width: 100%;}
 
 .sfooter {
 	border: solid;
-
-
 }
-
-
-
 .sfooter-content {
 	flex: 1 0 auto;
 	border: solid;
